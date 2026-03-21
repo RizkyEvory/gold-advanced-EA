@@ -1,5 +1,7 @@
 # 💎 M4DI Gold Advanced EA
 
+# Telegram : t.me/madiganzz
+
 <div align="center">
 
 ![Version](https://img.shields.io/badge/version-1.0-gold?style=for-the-badge)
